@@ -9,7 +9,7 @@ function tp(x,y,z)
 -- config
 local valtomove = 6
 noclip = true
-anchored = true
+anchored = false
 -- end config
 
 
