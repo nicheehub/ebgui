@@ -9,7 +9,7 @@ _G.targetPart = "Head"
 _G.bindEnabled = true
 _G.bind = Enum.KeyCode.Z 
 
-_G.functionEnabled = 105
+_G.functionEnabled = 99
 
 -- for games using a raycast based aiming system
 local RAYCAST_ENABLED = false
